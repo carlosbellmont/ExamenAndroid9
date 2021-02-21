@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_activity_details">Escribe lo que estás buscando</string>
+    <string name="b_search">Buscar</string>
+    <string name="b_next">Siguiente</string>
+</resources>
